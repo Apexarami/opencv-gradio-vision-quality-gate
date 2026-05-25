@@ -33,20 +33,8 @@ Open the local Gradio URL shown in the terminal, usually:
 http://127.0.0.1:7860
 ```
 
-## Resume version
+<img width="1639" height="901" alt="image" src="https://github.com/user-attachments/assets/1dba074e-e6f1-48ce-bc05-2acd1576aae5" />
 
-**Vision Quality Gate with OpenCV and Gradio**
-
-**Goal:**  
-Develop an interactive computer vision workflow for checking image quality and possible surface defects in inspection images.
-
-**Description:**  
-- Built a Gradio based image inspection demo using OpenCV for contour and defect visualization.  
-- Added blur, glare, and irregular contour checks to support image quality assessment.  
-- Generated annotated outputs with inspection score, decision label, and sample test images.
-
-**Tools:**  
-Python, OpenCV, Gradio, NumPy, Pillow, Pytest, GitHub Actions
 
 ## Limitations
 
